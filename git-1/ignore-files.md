@@ -1,4 +1,4 @@
 # Ignore files
 
-git update-index --skip-worktree 
+git update-index --skip-worktree &lt;file&gt;
 
