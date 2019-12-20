@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled...](untitled....md)
-
-## gibooktest
-
-* [Untitled](gibooktest/untitled.md)
-* [Untitled](gibooktest/untitled-1.md)
+* [Programming notes](README.md)
 
 ## Subtest
-* [subtest](Subtest/subtest.md)
+
+* [subtest](subtest/subtest.md)
+
+## Git <a id="git-1"></a>
+
+* [Ignore files](git-1/ignore-files.md)
+

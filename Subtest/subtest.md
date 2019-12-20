@@ -1,3 +1,0 @@
-## Subdirectory test
-### New test
----
