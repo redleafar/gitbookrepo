@@ -10,3 +10,7 @@
 
 * [Ignore files](git-1/ignore-files.md)
 
+## Mac OS
+
+* [Set JDK version on MAC OS \(Catalina\)](mac-os/set-jdk-version-on-mac-os-catalina.md)
+
