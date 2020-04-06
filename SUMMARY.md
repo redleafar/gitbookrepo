@@ -10,3 +10,7 @@
 
 * [Set JDK version on MAC OS \(Catalina\)](mac-os/set-jdk-version-on-mac-os-catalina.md)
 
+## AWS
+
+* [Install ffmepg with](aws/install-ffmepg-with.md)
+
