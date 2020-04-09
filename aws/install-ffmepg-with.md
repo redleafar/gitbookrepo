@@ -2,7 +2,7 @@
 description: How to install ffmpeg in aws EC2 instance
 ---
 
-# Install ffmepg with
+# Install ffmepg with h264 codec
 
 #### Donwload [ffmpeg-git-amd64-static.tar.xz](https://johnvansickle.com/ffmpeg/builds/ffmpeg-git-amd64-static.tar.xz)
 

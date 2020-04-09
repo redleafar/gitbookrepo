@@ -12,5 +12,5 @@
 
 ## AWS
 
-* [Install ffmepg with](aws/install-ffmepg-with.md)
+* [Install ffmepg with h264 codec](aws/install-ffmepg-with.md)
 
