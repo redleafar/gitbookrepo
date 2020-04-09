@@ -12,5 +12,6 @@
 
 ## AWS
 
+* [Install mongoDB in a EC2 instance](aws/install-mongodb-in-a-ec2-instance.md)
 * [Install ffmepg with h264 codec](aws/install-ffmepg-with.md)
 
