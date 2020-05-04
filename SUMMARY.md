@@ -8,6 +8,7 @@
 
 ## Mac OS
 
+* [Change environment variables](mac-os/change-environment-variables.md)
 * [Set JDK version on MAC OS \(Catalina\)](mac-os/set-jdk-version-on-mac-os-catalina.md)
 
 ## AWS
