@@ -12,5 +12,5 @@ Links:
 
 What you have to do is make MySQL and Doctrine support utf8mb4 charset.
 
-For some reason at the end the columns change their name, so do a schema update to fix that.
+It seems that it's not necessary to repair and optimize tables. For some reason at the end of the process the columns change their name, so you have to do a schema update to fix that.
 
