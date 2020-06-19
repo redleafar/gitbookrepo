@@ -22,3 +22,7 @@
 
 * [Create MongoDB database](mongodb/create-mongodb-database.md)
 
+## Symfony
+
+* [Support emojis](symfony/support-emojis.md)
+
