@@ -26,3 +26,7 @@
 
 * [Support emojis](symfony/support-emojis.md)
 
+## Jenkins
+
+* [Setup a pipeline for Android with Jenkins and Bitbucket](jenkins/setup-a-pipeline-for-android-with-jenkins-and-bitbucket.md)
+
