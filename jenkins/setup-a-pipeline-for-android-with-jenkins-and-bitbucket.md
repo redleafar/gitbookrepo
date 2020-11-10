@@ -20,3 +20,14 @@ Notes:
   AAPT2 aapt2-4.0.2-6197926-linux Daemon #1: Unexpected error during link, attempting to stop daemon
   ```
 
+* Don't forget to create a swapfile \(aws EC2 instances don't have one by default\)
+
+  ```text
+  sudo fallocate -l 1G /swapfile
+  sudo chmod 600 /swapfile
+  sudo mkswap /swapfile
+  sudo swapon /swapfile
+  ```
+
+
+
