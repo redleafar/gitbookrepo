@@ -2,7 +2,7 @@
 
 * Integrate Jenkins with Bitbucket: [https://www.youtube.com/watch?v=mTPsnR17MIM](https://www.youtube.com/watch?v=mTPsnR17MIM)
   * For the webhook just put the jenkins server and add /bitbucket-hook: http://jenkins-server:8080/bitbucket-hook/
-  * Look here: [https://www.youtube.com/watch?v=rcRQRJ7yRag](https://www.youtube.com/watch?v=rcRQRJ7yRag)
+  * Look here just in case: [https://www.youtube.com/watch?v=rcRQRJ7yRag](https://www.youtube.com/watch?v=rcRQRJ7yRag)
 * For pipeline configuration [https://medium.com/appgambit/build-android-application-with-jenkins-pipeline-9e2f6667bae1](https://medium.com/appgambit/build-android-application-with-jenkins-pipeline-9e2f6667bae1)
 * Installing Android SDK [https://medium.com/appgambit/setup-android-sdk-on-centos-9a420b928e35](https://medium.com/appgambit/setup-android-sdk-on-centos-9a420b928e35)
   * If having problems with the sdkmanager follow:
