@@ -12,6 +12,13 @@
   * If having problems with Android SDK when running the job try: [https://stackoverflow.com/questions/43705311/error-with-sdk-package-download-in-android-studio](https://stackoverflow.com/questions/43705311/error-with-sdk-package-download-in-android-studio) \(I did: Delete folders which starts with dot\(**.**\), they are temporary download files\)
   * If having problems with memory try[ https://stackoverflow.com/questions/54533710/java-program-failing-to-map-native-memory-allocation](https://github.com/docker-library/elasticsearch/issues/131) I did `sudo sysctl -w vm.max_map_count=262144`
 * In case that you have a Bitbucket server [https://www.jenkins.io/blog/2020/01/08/atlassians-new-bitbucket-server-integration-for-jenkins/](https://www.jenkins.io/blog/2020/01/08/atlassians-new-bitbucket-server-integration-for-jenkins/)
+* If having an error with /.gradlew permissions just  do:
+
+  ```text
+  git update-index --chmod=+x gradlew
+  ```
+
+  and push.
 
 Notes:
 
