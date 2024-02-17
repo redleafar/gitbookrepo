@@ -34,4 +34,4 @@
 
 * [Week 1 Basic Data Structures](data-structures-course/week-1-basic-data-structures/README.md)
   * [Arrays](data-structures-course/week-1-basic-data-structures/arrays.md)
-  * [Page](data-structures-course/week-1-basic-data-structures/page.md)
+  * [Singly-Linked List](data-structures-course/week-1-basic-data-structures/singly-linked-list.md)
