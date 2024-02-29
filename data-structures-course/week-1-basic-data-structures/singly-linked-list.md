@@ -30,5 +30,26 @@ PushFront : O(1) (Create node, update next pointer, and updated head pointer to 
 
 PopFront: O(1) (Update head pointer and remove the node)
 
-PushBack (no tail): O(n) (Start fron Head and move until the last element)
+PushBack (no tail pointer): O(n) (Start from Head and move until the last element)
 
+PopBack (no tail pointer): O(n) (Start from Head and move until the last element)
+
+PushBack (with tail pointer): O(1) (Go to last node and update pointer of the current tail to point to the new tail)
+
+PopBack (with tail pointer): O(n) (In this case you have to remove the tail but you have to point the node before the old tail to the new node, so you have to traverse all the list for this)
+
+**Code examples**
+
+<figure><img src="../../.gitbook/assets/imagen (2).png" alt=""><figcaption><p>PushFront</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen (3).png" alt=""><figcaption><p>PopFront</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen (4).png" alt=""><figcaption><p>PushBack</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen (6).png" alt=""><figcaption><p>PopBack</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen (7).png" alt=""><figcaption><p>AddAfter</p></figcaption></figure>
+
+**Time complexity summary**
+
+<figure><img src="../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
