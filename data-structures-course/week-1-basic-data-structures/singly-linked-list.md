@@ -40,11 +40,11 @@ PopBack (with tail pointer): O(n) (In this case you have to remove the tail but 
 
 **Code examples**
 
-<figure><img src="../../.gitbook/assets/imagen (2).png" alt=""><figcaption><p>PushFront</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption><p>PushFront</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/imagen (3).png" alt=""><figcaption><p>PopFront</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption><p>PopFront</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/imagen (4).png" alt=""><figcaption><p>PushBack</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption><p>PushBack</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/imagen (6).png" alt=""><figcaption><p>PopBack</p></figcaption></figure>
 

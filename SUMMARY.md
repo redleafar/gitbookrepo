@@ -35,3 +35,4 @@
 * [Week 1 Basic Data Structures](data-structures-course/week-1-basic-data-structures/README.md)
   * [Arrays](data-structures-course/week-1-basic-data-structures/arrays.md)
   * [Singly-Linked List](data-structures-course/week-1-basic-data-structures/singly-linked-list.md)
+  * [Double-Linked Lists](data-structures-course/week-1-basic-data-structures/double-linked-lists.md)
