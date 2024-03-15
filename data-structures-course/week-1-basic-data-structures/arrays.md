@@ -28,7 +28,7 @@ There is a supossition here is that the way this is layed out is from row to row
 
 **Times for common operations**
 
-<figure><img src="../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you add or remove in the End, you already know the final position and is just 1 operation so that's why is O(1). However for the Beginning or the Middle you have to move other elements to make space, so that's why is O(n) (linear time).
 
