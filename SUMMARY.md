@@ -40,3 +40,7 @@
   * [Queues](data-structures-course/week-1-basic-data-structures/queues.md)
   * [Trees](data-structures-course/week-1-basic-data-structures/trees/README.md)
     * [Tree Traversal](data-structures-course/week-1-basic-data-structures/trees/tree-traversal.md)
+
+## Common Sense On Mutual Funds
+
+* [Page 1](common-sense-on-mutual-funds/page-1.md)
