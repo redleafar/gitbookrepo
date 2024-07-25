@@ -9,4 +9,7 @@ He also recommend some books afer reading this one.
 
 He talks good about Vanguard (Jack Bogle's mutual fund) and TIAA - CREF
 
-pag 17
+In the preface to the 10th edition it says that nowadays the economic growth that you can expect is around 2% instead of 3%. However this is for 2009, not sure if this has changed.
+
+Page 31
+
