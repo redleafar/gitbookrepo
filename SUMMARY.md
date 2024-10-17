@@ -43,4 +43,6 @@
 
 ## Common Sense On Mutual Funds
 
-* [Page 1](common-sense-on-mutual-funds/page-1.md)
+* [Preface](common-sense-on-mutual-funds/preface.md)
+* [Part 1 On Investment Strategy](common-sense-on-mutual-funds/part-1-on-investment-strategy/README.md)
+  * [On Long Term Investing](common-sense-on-mutual-funds/part-1-on-investment-strategy/on-long-term-investing.md)
