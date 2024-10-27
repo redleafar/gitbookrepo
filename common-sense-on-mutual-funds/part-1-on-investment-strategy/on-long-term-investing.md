@@ -16,3 +16,4 @@ Historically the bonds rate of return are less (around 3.5%) and more variable t
 
 Interestingly because of the 2008 crisis the rate from 1999 to 2009 for stocks was around 6.5. For bonds from 1997 to 2008 it was 6.2. This contrast provides yet one more testament, if such be needed, to the importance of balancing an investment program between stocks and bonds
 
+Page 52
