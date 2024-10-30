@@ -18,6 +18,6 @@ Interestingly because of the 2008 crisis the rate from 1999 to 2009 for stocks w
 
 The longer the time horizon, the less the variability in average annual returns
 
-The risk is the possibility that, in the long run, stock returns will be terrible
+The risk is the possibility that, in the long run, stock returns will be terrible: This comment provide a healthy reminder of the uncertainty of future returns in the financial markets. But they hardly vitiate my central message: Focusing on the long term is far superior to focusing on the short term. It is a lesson too few investors have learned.
 
 Page 52
