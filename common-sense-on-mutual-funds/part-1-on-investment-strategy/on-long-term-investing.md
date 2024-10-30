@@ -18,4 +18,6 @@ Interestingly because of the 2008 crisis the rate from 1999 to 2009 for stocks w
 
 The longer the time horizon, the less the variability in average annual returns
 
+The risk is the possibility that, in the long run, stock returns will be terrible
+
 Page 52
