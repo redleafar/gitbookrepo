@@ -20,4 +20,12 @@ The longer the time horizon, the less the variability in average annual returns
 
 The risk is the possibility that, in the long run, stock returns will be terrible: This comment provide a healthy reminder of the uncertainty of future returns in the financial markets. But they hardly vitiate my central message: Focusing on the long term is far superior to focusing on the short term. It is a lesson too few investors have learned.
 
-Page 56
+* Although changes in the rate of inflation from period to period have done little to alter the real rate of returns in the stock market, they have had a profound impact on the real returns provided by bonds. The historical record indicates that investors have often failed to anticipate rapid inflation
+* "New" types of U.S. Treasury bonds that obviate two of the traditional risks of bonds:&#x20;
+  * Zero coupon bonds
+  * Inflation - hedge bonds
+* Likely, future returns on long - term Treasurys will fall in the range of 4 percent to 5 percent (this is part of a "Ten years later" analysis done in page 59).
+* In the short run, stocks are riskier than bonds, in the long long run bonds are riskier than stocks if risk is the chance of failing to earn a real return over the long term.&#x20;
+* However Bonds as insurance against the possibility of short - term, or even extended, weakness in stocks, then, long - term investors should also include bonds in their portfolios.
+
+Page 61
