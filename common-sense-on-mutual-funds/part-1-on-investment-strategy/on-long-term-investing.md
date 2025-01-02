@@ -28,4 +28,4 @@ The risk is the possibility that, in the long run, stock returns will be terribl
 * In the short run, stocks are riskier than bonds, in the long long run bonds are riskier than stocks if risk is the chance of failing to earn a real return over the long term.&#x20;
 * However Bonds as insurance against the possibility of short - term, or even extended, weakness in stocks, then, long - term investors should also include bonds in their portfolios.
 
-Page 61
+Page 100
