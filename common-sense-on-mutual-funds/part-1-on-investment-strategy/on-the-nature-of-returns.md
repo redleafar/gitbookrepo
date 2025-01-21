@@ -26,4 +26,4 @@ Occam's Razor theory: These three variables determine stock market returns over 
 
 
 
-(86 pdf)
+(88 pdf)
