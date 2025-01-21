@@ -11,4 +11,19 @@ In the long term investments returns conform to the fundamentals:
 * Dividend yields
 * Earnings growth
 
+It seems that the fundamentals correspond to the sum of both values (?)
+
+Two types of corporate earnings:
+
+* Operating earnings
+* Reported earnings (operating earnings minus/plus, almost always minus, write-downs) that account for investment losses)
+
+Occam's Razor theory: These three variables determine stock market returns over the long term
+
+* The dividend yield at the time of initial investment
+* The subsequent rate of growth in earnings
+* The change in the price – earnings ratio during the period of investment
+
+
+
 (86 pdf)
