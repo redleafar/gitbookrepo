@@ -28,4 +28,8 @@ Total return is the sum of the three factors. The analysis relies on nominal ret
 
 The first two are a measure of the two investment fundamentals. The third one is a measure of speculation, a barometer of the investor sentiment.
 
-(96 pdf)
+He used a matrix to estimate the values but later used a model.
+
+Regarding bonds past returns, unlike stocks, are devoid of meaning when forecasting future returns.
+
+101 pdf
