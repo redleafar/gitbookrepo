@@ -32,4 +32,4 @@ He used a matrix to estimate the values but later used a model.
 
 Regarding bonds past returns, unlike stocks, are devoid of meaning when forecasting future returns.
 
-101 pdf
+105 pdf
