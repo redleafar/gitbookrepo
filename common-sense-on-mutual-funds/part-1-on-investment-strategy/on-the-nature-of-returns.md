@@ -34,4 +34,4 @@ Regarding bonds past returns, unlike stocks, are devoid of meaning when forecast
 
 In stocks you can say we are at the top when the yields are minimum, as well as earnings, and the stock prices are maximum.
 
-105 pdf
+111 pdf
