@@ -32,6 +32,16 @@ He used a matrix to estimate the values but later used a model.
 
 Regarding bonds past returns, unlike stocks, are devoid of meaning when forecasting future returns.
 
+For bonds these are the variables to take into account:
+
+* The initial yield of the long - term U.S. Treasury bond,&#x20;
+* Reinvestment rate assumptions, and&#x20;
+* A series of terminal interest rates at the end of the decade.&#x20;
+
+(There is a matrix with these)
+
+"I want to make the elemental point that, when we know the current interest coupon, we know most of what we need to know to forecast bond returns over the coming decade."
+
 In stocks you can say we are at the top when the yields are minimum, as well as earnings, and the stock prices are maximum.
 
-111 pdf
+113 pdf
