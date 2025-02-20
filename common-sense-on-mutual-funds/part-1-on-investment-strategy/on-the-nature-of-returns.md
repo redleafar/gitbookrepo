@@ -44,4 +44,3 @@ For bonds these are the variables to take into account:
 
 In stocks you can say we are at the top when the yields are minimum, as well as earnings, and the stock prices are maximum.
 
-113 pdf

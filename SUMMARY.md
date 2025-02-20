@@ -47,3 +47,4 @@
 * [Part 1 On Investment Strategy](common-sense-on-mutual-funds/part-1-on-investment-strategy/README.md)
   * [On Long Term Investing](common-sense-on-mutual-funds/part-1-on-investment-strategy/on-long-term-investing.md)
   * [On the Nature of Returns](common-sense-on-mutual-funds/part-1-on-investment-strategy/on-the-nature-of-returns.md)
+  * [On Asset Allocation](common-sense-on-mutual-funds/part-1-on-investment-strategy/on-asset-allocation.md)
