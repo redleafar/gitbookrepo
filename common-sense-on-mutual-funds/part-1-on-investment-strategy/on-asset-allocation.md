@@ -26,4 +26,6 @@ Four dimensions of investing:
 
 With a longer time horizon you can afford to take more risk than if it is short and vice versa.
 
-115
+<figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption><p>It seems 50/50 would be ideal for me? Or right now start with 60/40</p></figcaption></figure>
+
+122

@@ -35,7 +35,7 @@ Only one type:
 
 **LevelTraversal**&#x20;
 
-<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 Note: You can do non-recursive algos with Depth-first but you need stacks (I see that implicitly when you do recursion you are using stacks)
 

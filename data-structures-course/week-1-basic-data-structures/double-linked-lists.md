@@ -10,9 +10,9 @@ Now we can go forward or backwards
 
 Now PopBack has O(1) time complexity
 
-<figure><img src="../../.gitbook/assets/imagen (1).png" alt=""><figcaption><p>PushBack</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption><p>PushBack</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption><p>PopBack</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption><p>PopBack</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/imagen (2).png" alt=""><figcaption><p>AddAfter</p></figcaption></figure>
 
