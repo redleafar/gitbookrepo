@@ -28,4 +28,14 @@ With a longer time horizon you can afford to take more risk than if it is short 
 
 <figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption><p>It seems 50/50 would be ideal for me? Or right now start with 60/40</p></figcaption></figure>
 
-122
+Another advice as a starting point could be your age as the percentage of bond position. So, for instance, a 35 years old would have a 35(bond)/65(stock) percentage allocation. Obviously this depends on the investor objectives, risk tolerance and financial position.&#x20;
+
+You can have three strategies, regarding the dynamics of the process:
+
+* Keep the ratio: For this you have to reallocate from one to another (stocks to bonds and viceversa) maybe selling and moving the the other one. However the smartest thing is just to allocate more of the new funds to the one needed in order to rebalance the ratio, because when selling there could be taxes and fees to take into account. With this implicitly you automatically lock in your gains and reduce your equity exposure as equity prices increase (if you are moving from equity to bonds, which is the most common thing)
+* Let your investments ride: With this you just set an initial allocation, but do nothing and let it go however it is.
+* Tactical asset allocation: Do midcourse corrections if you see that its good in the long term. This is only recommended to skilled investors.
+
+I believe that in my case the first one would be the best one, maybe doing some adjustments in the percentage allocation of new funds following the age rule mentioned.
+
+126
