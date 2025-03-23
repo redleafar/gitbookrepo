@@ -19,10 +19,10 @@ The simple guideline of the author:
 
 Four dimensions of investing:
 
-* Return
-* Risk
-* Cost
-* Time
+* **Return**
+* **Risk**
+* **Cost**
+* **Time**
 
 With a longer time horizon you can afford to take more risk than if it is short and vice versa.
 
@@ -38,4 +38,17 @@ You can have three strategies, regarding the dynamics of the process:
 
 I believe that in my case the first one would be the best one, maybe doing some adjustments in the percentage allocation of new funds following the age rule mentioned.
 
-126
+Regarding the third dimension, cost, take into account:
+
+* Although Investment Policy (ie the allocation of assets) dominates Investment Strategy (market timing and security selection) explaining on average 93.6% of the variation of **quarterly variations of returns** this true **as long as cost is held constant and low.** In other words, make your selections from among the lower - cost funds.
+
+This is because in the **long term** investment policy explained only 14.6% of the differences in the total returns.
+
+**For many individual investors, cost is the most important determinant of portfolio performance, not asset allocation policy, market timing, or security selection.**
+
+The author considers that both Cost and Asset allocation are critically important.
+
+<figure><img src="../../.gitbook/assets/imagen (15).png" alt=""><figcaption><p>Here you can see the importance of expense rations for many types of funds</p></figcaption></figure>
+
+pag 130
+
