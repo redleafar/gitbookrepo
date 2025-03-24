@@ -50,5 +50,7 @@ The author considers that both Cost and Asset allocation are critically importan
 
 <figure><img src="../../.gitbook/assets/imagen (15).png" alt=""><figcaption><p>Here you can see the importance of expense rations for many types of funds</p></figcaption></figure>
 
-pag 130
+**The lowest - cost funds not only have the highest net**\
+**returns (as we would expect) but the highest gross returns, even before costs are deducted (not clear why this should be but it is a pattern that further enhances the simple, low - cost strategy: "Do your fishing in the low - cost pond!").**
 
+Page 134
