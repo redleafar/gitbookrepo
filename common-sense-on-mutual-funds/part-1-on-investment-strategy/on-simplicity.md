@@ -15,6 +15,15 @@ To accomplish simplicity:
 
 There is an interesting "Ten years" note on page 155, that says it was better to invest in the balanced market index fund than in an all equity index fund. So seems that my best option is to invest in a balanced market index fund.
 
-The author recommends explicitly an all - index - fund approach.
+The author recommends explicitly an all - index - fund approach. If you don't want that he recommends 8 rules for capitalizing the advantages of index funds:
 
-page 156
+1. Select low-cost funds: The first thing to look at is the expense ratio
+2. Consider Carefully the Added Costs of Advice: The least costly way to own mutual funds is buying no-load funds, that is those without personal guidance. \
+   \
+   Also beware of apparently no-load funds that charge a 12b - 1 fee (used by them among other things, to promote sales). \
+   \
+   Also beware of wrap accounts, packages of mutual funds assembled. They are usuarlly expensive.\
+
+3. Do Not Overrate Past Fund Performance
+
+page 162
