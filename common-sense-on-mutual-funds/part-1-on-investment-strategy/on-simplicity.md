@@ -24,6 +24,12 @@ The author recommends explicitly an all - index - fund approach. If you don't wa
    \
    Also beware of wrap accounts, packages of mutual funds assembled. They are usuarlly expensive.\
 
-3. Do Not Overrate Past Fund Performance
+3. Do Not Overrate Past Fund Performance: However here is important to take into account that:\
+   \
+   \- Funds with unusually high expenses are likely to underperform appropriate market indexes\
+   \
+   \- Funds with past relative returns that have been substantially superior to the returns of an appropriate market index will regress toward, and usually below, the market mean over time
+4. Use Past Performance to Determine Consistency and Risk
+5. Beware of Stars
 
-page 162
+page 168
