@@ -30,6 +30,21 @@ The author recommends explicitly an all - index - fund approach. If you don't wa
    \
    \- Funds with past relative returns that have been substantially superior to the returns of an appropriate market index will regress toward, and usually below, the market mean over time
 4. Use Past Performance to Determine Consistency and Risk
-5. Beware of Stars
+5. Beware of Stars\
+   \
+   Seek good managers if you will, but rely on their professionalism, experience, and steadfastness\
+   rather than on their stardom. Also beware of star systems.
+6. Beware of Asset Size\
+   \
+   Avoid large fund organizations that \
+   (1) have no history of closing funds — that is, terminating the offering of their shares — to new investors, or \
+   (2) seem willing to let their funds grow, irrespective of their investment goals, to seemingly infi nite size, beyond their power to differentiate their investment results from the crowd\
+   \
+   Excessive size can, and probably will, kill any possibility of investment excellence. The record is clear that, for the overwhelming majority of funds, the best years come when they are small
+7. Don ’ t Own Too Many Funds\
+   \
+   Per the author: A single ready - made balanced index fund — holding 65 percent stocks and 35 percent bonds, as shown in my earlier example — can meet the needs of many investors. It is generally unnecessary to go much beyond four or five equity funds. In my case a single one would be enough.\
+   \
+   For the author the international component of a portfolio shouldn't be more than 20% of the equity position
 
-page 168
+page 175
