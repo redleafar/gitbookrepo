@@ -49,3 +49,5 @@
   * [On the Nature of Returns](common-sense-on-mutual-funds/part-1-on-investment-strategy/on-the-nature-of-returns.md)
   * [On Asset Allocation](common-sense-on-mutual-funds/part-1-on-investment-strategy/on-asset-allocation.md)
   * [On Simplicity](common-sense-on-mutual-funds/part-1-on-investment-strategy/on-simplicity.md)
+* [Part 2 On Investment Choices](common-sense-on-mutual-funds/part-2-on-investment-choices/README.md)
+  * [On Indexing](common-sense-on-mutual-funds/part-2-on-investment-choices/on-indexing.md)

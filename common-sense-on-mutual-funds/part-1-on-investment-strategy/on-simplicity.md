@@ -46,5 +46,20 @@ The author recommends explicitly an all - index - fund approach. If you don't wa
    Per the author: A single ready - made balanced index fund — holding 65 percent stocks and 35 percent bonds, as shown in my earlier example — can meet the needs of many investors. It is generally unnecessary to go much beyond four or five equity funds. In my case a single one would be enough.\
    \
    For the author the international component of a portfolio shouldn't be more than 20% of the equity position
+8. Buy your fund portfolio and hold it\
+   \
+   The key to holding tight is buying right:\
+   \
+   \- Don't pick funds you don't fully understand\
+   \- Don't pick funds based on the basis of past performances\
+   \- Don't pick funds because someone told you to\
+   \- Don't pick high-cost funds\
+   \- Don't select funds as if they were simply individual common stocks\
+   \
+   \
+   A major event like a fee increase should set off alarms but similarly also "Investigate before you divest"\
+   \
 
-page 175
+
+
+
