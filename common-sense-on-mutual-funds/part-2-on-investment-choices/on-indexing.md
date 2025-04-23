@@ -18,9 +18,15 @@ to an actively managed mutual fund) derive largely from the costs incurred by th
 
 **The Index Fund Is Much Better Than It Appears**
 
+**All Index Funds Are Not Created Equal**
 
+Instead of blindly choosing an index fund, investors must be careful to determine that the fund they select is indexed to the market segment they wish to emulate.
 
-213
+The author relies largely on the records of the original two index funds the Vanguard 500 Index Fund, and the Total Stock Market Index Fund. Both are large, free of sale loads and very efficient.
+
+Be sure to read all the fine print about costs in the advertisements, and pay careful heed to the details in the fund’s prospectus
+
+215
 
 
 
