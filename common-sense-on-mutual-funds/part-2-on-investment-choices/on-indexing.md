@@ -26,7 +26,13 @@ The author relies largely on the records of the original two index funds the Van
 
 Be sure to read all the fine print about costs in the advertisements, and pay careful heed to the details in the fund’s prospectus
 
-215
+Investors should carefully examine the aspects of each manager ’ s implementation of strategy for any index fund that is being considered
+
+**Indexing Works in All Markets**
+
+Some detractors say that index funds only work in efficient markets but, Ironically, equity indexing should work better in inefficient markets than in efficient markets.
+
+221
 
 
 
