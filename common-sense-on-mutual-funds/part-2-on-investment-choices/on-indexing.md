@@ -34,7 +34,7 @@ Some detractors say that index funds only work in efficient markets but, Ironica
 
 There is a ten years later note very interesting about **ETFs** saying that they are not good, because the main idea with indexing is to have a broad selection. One ETF following the S\&P 500 is reasonable, but most of them have a narrow selection of the stock market. Also they do a lot of trades (high turnover and the idea, as I understand, is to avoid that to reduce the, let's say, transaction fees). Last their expense ratios are high.
 
-223
+226
 
 
 
