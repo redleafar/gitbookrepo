@@ -51,3 +51,4 @@
   * [On Simplicity](common-sense-on-mutual-funds/part-1-on-investment-strategy/on-simplicity.md)
 * [Part 2 On Investment Choices](common-sense-on-mutual-funds/part-2-on-investment-choices/README.md)
   * [On Indexing](common-sense-on-mutual-funds/part-2-on-investment-choices/on-indexing.md)
+  * [On Equity Styles](common-sense-on-mutual-funds/part-2-on-investment-choices/on-equity-styles.md)
