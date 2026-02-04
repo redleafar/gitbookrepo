@@ -22,8 +22,7 @@ The author recommends explicitly an all - index - fund approach. If you don't wa
    \
    Also beware of apparently no-load funds that charge a 12b - 1 fee (used by them among other things, to promote sales). \
    \
-   Also beware of wrap accounts, packages of mutual funds assembled. They are usuarlly expensive.\
-
+   Also beware of wrap accounts, packages of mutual funds assembled. They are usuarlly expensive.<br>
 3. Do Not Overrate Past Fund Performance: However here is important to take into account that:\
    \
    \- Funds with unusually high expenses are likely to underperform appropriate market indexes\
@@ -58,8 +57,7 @@ The author recommends explicitly an all - index - fund approach. If you don't wa
    \
    \
    A major event like a fee increase should set off alarms but similarly also "Investigate before you divest"\
-   \
-
+   <br>
 
 
 

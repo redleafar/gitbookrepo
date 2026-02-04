@@ -2,8 +2,7 @@
 
 &#x20;**Array**
 
-Contiguous area of memory consisting of equal-size elements indexed by contiguos integers. Initial index can be 0 or 1 depending on the language.\
-
+Contiguous area of memory consisting of equal-size elements indexed by contiguos integers. Initial index can be 0 or 1 depending on the language.<br>
 
 Key point of arrays:
 

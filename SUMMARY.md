@@ -57,3 +57,4 @@
 
 * [Ideas](ai-development-learning/ideas/README.md)
   * [Investigar (Research)](ai-development-learning/ideas/investigar-research.md)
+  * [Dialogar (Dialogue)](ai-development-learning/ideas/dialogar-dialogue.md)
