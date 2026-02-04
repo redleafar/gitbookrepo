@@ -52,3 +52,8 @@
 * [Part 2 On Investment Choices](common-sense-on-mutual-funds/part-2-on-investment-choices/README.md)
   * [On Indexing](common-sense-on-mutual-funds/part-2-on-investment-choices/on-indexing.md)
   * [On Equity Styles](common-sense-on-mutual-funds/part-2-on-investment-choices/on-equity-styles.md)
+
+## AI Development Learning
+
+* [Ideas](ai-development-learning/ideas/README.md)
+  * [Investigar (Research)](ai-development-learning/ideas/investigar-research.md)
