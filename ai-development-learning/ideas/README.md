@@ -27,3 +27,13 @@ Tests, documentación, revisiones de código, scripts inteligentes... Todo lo te
 S
 
 #### Sintetizar
+
+De la idea al prototipo funcional en minutos, no semanas. Dominarás herramientas de prototipado rápido potenciadas por IA y presentarás tu proyecto final que demuestra tu transformación completa.
+
+
+
+
+
+{% embed url="https://devexpert.io/cursos/expert/ai#video" %}
+
+Just as side note for pure ML development on Android check [https://developer.android.com/courses/pathways/android-ai-overview](https://developer.android.com/courses/pathways/android-ai-overview)
