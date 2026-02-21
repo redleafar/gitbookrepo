@@ -9,3 +9,5 @@ See:
 {% embed url="https://dev.to/farhadrahimiklie/which-ai-model-is-best-for-coding-and-why-3oh3" %}
 
 {% embed url="https://designrevision.com/blog/best-ai-for-coding" %}
+
+NotebookLM: For getting info from scattered sources: books, articles, videos... that are put as the source where the LLM searches for the info you want. It seems that this can be used for repos and documentation :thinking:
