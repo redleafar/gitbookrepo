@@ -55,6 +55,6 @@
 
 ## AI Development Learning
 
-* [Ideas](ai-development-learning/ideas/README.md)
-  * [Investigar (Research)](ai-development-learning/ideas/investigar-research.md)
-  * [Dialogar (Dialogue)](ai-development-learning/ideas/dialogar-dialogue.md)
+* [Ideais](ai-development-learning/ideais/README.md)
+  * [Investigar (Research)](ai-development-learning/ideais/investigar-research.md)
+  * [Dialogar (Dialogue)](ai-development-learning/ideais/dialogar-dialogue.md)
